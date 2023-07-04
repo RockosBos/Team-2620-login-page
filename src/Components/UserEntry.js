@@ -8,6 +8,8 @@ const UserEntry = () => {
                         <option value="1">User 1</option>
                         <option value="2">User 2</option>
                     </select>
+                    <br/>
+                    <button type="submit">Submit</button>
                 </form>
             </div>
         </div>
